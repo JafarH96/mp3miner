@@ -4,7 +4,7 @@ A simple and efficient MP3 player application that allows you to extract and pla
 
 ## Screenshot
 
-![MP3 Player Screenshot](images\screenshot.png)
+![MP3 Player Screenshot](images/screenshot.png)
 
 ## Requirements
 
