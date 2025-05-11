@@ -366,7 +366,6 @@ def create_player_ui(mp3_urls):
                 img = img.resize((48, 48), Image.Resampling.LANCZOS)
                 tk_img = ImageTk.PhotoImage(img)
                 loaded_images.append(tk_img)  # Prevent garbage collection
-                print(f"Loaded image: {filename}")
                 return tk_img
             else:
                 print(f"File not found: {filename}")
